@@ -4,7 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
-   base: '/exptimeline.git.io/',
+   base: '/courtorderastimeline.git.io/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
